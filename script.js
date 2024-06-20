@@ -1,3 +1,5 @@
+$("h1").text("Gunnite Jaan!");
+
 let moon= document.getElementById("moon");
 let text= document.getElementById("text");
 let train= document.getElementById("train");
